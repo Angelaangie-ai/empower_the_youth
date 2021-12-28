@@ -8,3 +8,5 @@ Inspired by the situation, Empower The Youth, offered a full list of activities 
 Within the same application, we were tackling the food problem present in Struga, North Macedonia. Every day, an immense amount of food is thrown away, and on the other side, we constantly have people who don't have enough food. Empower the Food was doing a simple redirection of the food from hotels, cafes, restaurants, and supermarkets to socially endangered families. On one side, we've logged in all interested socially endangered families in the region. On the other, we've assigned each one of the partner organizations to be responsible for a specific number of families. Red Cross Volunteers helped the process of food delivery.
 
 Both parts of the application were created through Java for front-end and Firebase for back-end. The application was in use till March 2020, when we had to terminate our food-sharing program due to the pandemic. 
+
+
